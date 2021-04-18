@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![NodeJs](https://img.shields.io/badge/-NodeJs-black?logo=node.js&style=social)&nbsp;&nbsp;
 ![ExpressJs](https://img.shields.io/badge/-ExpressJs-black?logo=express&style=social)&nbsp;&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongoDB&style=social)&nbsp;&nbsp;
 
 ### 📊 Github Stats
 
