@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 
 ### 📊 Github Stats
 
-
+[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamGururani)](https://github.com/ShubhamGururani/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamGururani&layout=compact)](https://github.com/ShubhamGururani/github-readme-stats)
 
