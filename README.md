@@ -32,10 +32,11 @@ Here are some ideas to get you started:
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp;
 
 <br>
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongoDB&style=social)&nbsp;&nbsp;
-![ExpressJs](https://img.shields.io/badge/-ExpressJs-black?logo=express&style=social)&nbsp;&nbsp;
-![ReactJs](https://img.shields.io/badge/-ReactJs-black?logo=react&style=social)&nbsp;&nbsp;
-![NodeJs](https://img.shields.io/badge/-NodeJs-black?logo=node.js&style=social)&nbsp;&nbsp;
+  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) &nbsp;&nbsp;
+![ExpressJs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;&nbsp;
+![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp;
+![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;&nbsp;
 
 
 ### 📊 Github Stats
