@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp;
 
 <br>
-  
+
+**Previously worked on:**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) &nbsp;&nbsp;
 ![ExpressJs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;&nbsp;
 ![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp;
