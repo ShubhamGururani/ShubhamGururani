@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 ![ExpressJs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;&nbsp;
 ![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp;
 ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;&nbsp;
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;&nbsp;
 
 
 ### 📊 Github Stats
